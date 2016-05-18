@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Click Here !</string>
+    <string name="test">Test One</string>
+    <string name="tbp">Pressed Since :<b> %1$f</b> s </string>
+</resources>
